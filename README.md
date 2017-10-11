@@ -1,2 +1,2 @@
 # A-simple-web-page-using-HTML-CSS-JQuery-and-Bootstrap
-This webpage was made during a course from Udemy. 
+This is just the front end of a modern looking responsive website. 
